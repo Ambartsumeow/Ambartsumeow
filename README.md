@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ambartsumeow
+- 👀 I’m interested in Python, Java and C#
+- 🌱 I’m currently learning in Yandex Liceum
+- 📫 How to reach me - vk.com/procompov  or write message on my email - ambartsumeow@yandex.ru
